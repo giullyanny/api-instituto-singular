@@ -1,4 +1,4 @@
-{
+[{
     "usuario": {
         "nome": "Ylton Guarnieri",
         "email": "ylton@websoluta.com.br",
@@ -13,4 +13,4 @@
     },
     "message": "Autenticado",
     "status": 0
-}
+}]
