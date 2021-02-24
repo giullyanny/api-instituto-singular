@@ -1,17 +1,17 @@
 {
-    "result": {
-        "usuario": {
-            "nome": "Ylton Guarnieri",
-            "email": "ylton@websoluta.com.br",
-            "cpf": "22549367863",
-            "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IllsdG9uIEd1YXJuaWVyaSIsImVtYWlsIjoieWx0b25Ad2Vic29sdXRhLmNvbS5iciIsIm5iZiI6MTYxMzc1MDAyNywiZXhwIjoxNjIxNDM5NjI3LCJpYXQiOjE2MTM3NTAwMjd9.BUjF6yUEZRmPxIOfC4anmjLpwvxjKY8dxvbza8f_E3c",
-            "dataNascimento": "1983-07-28T00:00:00",
-            "perfis": [{
-                "nome": "Administrador"
-            }, {
-                "nome": "Editor de Conteúdo"
-            }]
-        },
+    "usuario": {
+        "nome": "Ylton Guarnieri",
+        "email": "ylton@websoluta.com.br",
+        "cpf": "22549367863",
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IllsdG9uIEd1YXJuaWVyaSIsImVtYWlsIjoieWx0b25Ad2Vic29sdXRhLmNvbS5iciIsIm5iZiI6MTYxMzc1MDAyNywiZXhwIjoxNjIxNDM5NjI3LCJpYXQiOjE2MTM3NTAwMjd9.BUjF6yUEZRmPxIOfC4anmjLpwvxjKY8dxvbza8f_E3c",
+        "dataNascimento": "1983-07-28T00:00:00",
+        "perfis": [{
+            "nome": "Administrador"
+        }, {
+            "nome": "Editor de Conteúdo"
+        }]
+    },
+    "status": {
         "message": "Autenticado",
         "status": 0
     }
