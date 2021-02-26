@@ -12,10 +12,8 @@
                 "nome": "Editor de Conteúdo"
             }]
         },
-        "status": {
-            "message": "Autenticado",
-            "status": 0
-        }
+        "message": "Autenticado",
+        "status": 0
     },
     "login_errado": {
         "usuario": null,
