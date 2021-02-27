@@ -17,9 +17,7 @@
     },
     "login_errado": {
         "usuario": null,
-        "status": {
-            "message": "Usuário não encontrado",
-            "status": -1
-        }
+        "message": "Autenticado",
+        "status": 0
     }
 }
