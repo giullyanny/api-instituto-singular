@@ -1,6 +1,6 @@
 {
     "login": {
-        "usuario": {
+        "colaborador": {
             "nome": "Eduardo Giullyanny",
             "email": "eduardo.giullyanny@gmail.com",
             "cpf": "00998778990",
@@ -16,7 +16,7 @@
         "status": 0
     },
     "login_errado": {
-        "usuario": null,
+        "colaborador": null,
         "message": "Autenticado",
         "status": 0
     }
